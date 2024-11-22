@@ -1,0 +1,10 @@
+Cách nhúng js vào html
+
+input
+output
+
++nodejs
+console.log()
+
++browser
+document.write()
