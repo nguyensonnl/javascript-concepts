@@ -5,6 +5,47 @@
 21.4 Thực hành xây dựng Todo App #3
 21.5 Thực hành xây dựng Todo App #4
 
+21.1 Giới thiệu chương thực hành
+21.2 Render tasks ra giao diện
+21.3 Bài tập render tasks ra giao diện
+21.4 Thêm công việc mới
+21.5 Bài tập thêm công việc mới
+21.6 Chỉnh sửa công việc
+21.7 Đánh dấu hoàn thành và xóa
+21.8 Hiển thị "Empty message" khi task rỗng
+21.9 Sửa lỗi tiêu đề công việc bị null
+21.10 Kiểm tra trùng tiêu đề công việc
+21.11 Tối ưu logic kiểm tra trùng tiêu đề
+21.12 Lưu dữ liệu vào localStorage
+21.13 localStorage lưu được gì?
+21.14 JSON trong JavaScript là gì?
+21.15 Sửa lỗi và tìm hiểu về dataset
+21.16 Tại sao nên dùng dataset?
+21.17 Tránh XSS với escapeHTML
+21.18 Xây dựng giao diện cho Modal
+21.19 Xử lý mở và đóng Modal
+21.20 Xử lý để nhiều Modal cùng hoạt động
+21.21 Thiết kế Modal contructor
+21.22 Lấy nội dung Modal từ template
+21.23 Thêm một lý do để dùng cloneNode
+21.24 Nhấn backdrop không đóng và khóa cuộn
+21.25 Khóa cuộn trang khi mở modal để làm gì?
+21.26 Khắc phục giật nội dung khi ẩn/hiện thanh cuộn
+21.27 Tạo hàm getScrollbarWidth
+21.28 Tối ưu hàm getScrollbarWidth
+21.29 Phát triển Modal linh hoạt hơn
+21.30 Sửa logic Modal đáp ứng options mới
+21.31 Thêm tùy chọn destroyOnClose
+21.32 Xử lý gọi lại khi mở và đóng Modal
+21.33 Thêm tùy chọn footer cho Modal
+21.34 Thêm phương thức addFooterButton
+21.35 Sửa lỗi khi nhấn ESC và xử lý mở nhiều Modal
+21.36 Tối ưu tránh lặp logic trong Modal
+21.37 Chuyển phương thức thành prototype
+21.38 Chia sẻ cách tư duy đặt tên thư viện
+21.39 Minify và deploy thư viện Popzy
+
+
 20. Làm việc với DOM
 20.1 Lưu ý trước khi học DOM
 01:04
