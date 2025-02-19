@@ -44,7 +44,13 @@
 21.37 Chuyển phương thức thành prototype
 21.38 Chia sẻ cách tư duy đặt tên thư viện
 21.39 Minify và deploy thư viện Popzy
-
+21.40 Tạo trang Demo và hướng dẫn dùng Popzy
+21.41 Thêm options content cho Popzy
+21.42 Xử lý các vấn đề liên quan tới khóa cuộn
+21.43 Sửa lỗi không khóa cuộn theo mặc định
+21.44 Cách release phiên bản mới trên Github
+21.45 Hoàn thiện phần Demo cho Popzy
+21.46 Giới thiệu dự án Tabzy
 
 20. Làm việc với DOM
 20.1 Lưu ý trước khi học DOM
