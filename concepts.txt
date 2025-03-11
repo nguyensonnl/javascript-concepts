@@ -1,3 +1,4 @@
++old
 21. Thực hành với DOM
 21.1 Giới thiệu chương thực hành với DOM
 21.2 Thực hành xây dựng Todo App #1
@@ -5,6 +6,7 @@
 21.4 Thực hành xây dựng Todo App #3
 21.5 Thực hành xây dựng Todo App #4
 
++new
 21.1 Giới thiệu chương thực hành
 21.2 Render tasks ra giao diện
 21.3 Bài tập render tasks ra giao diện
@@ -51,140 +53,86 @@
 21.44 Cách release phiên bản mới trên Github
 21.45 Hoàn thiện phần Demo cho Popzy
 21.46 Giới thiệu dự án Tabzy
+21.47 Xây dựng logic khởi tạo cho Tabzy
+21.48 Tạo phương thức switch và destroy
+21.49 Xây dựng tính năng ghi nhớ tab
+21.50 Hiểu rõ về lỗi không ghi nhớ tab
+21.51 Tìm hiểu về query parameters
+21.52 Sử dụng query params thay cho hash
+21.53 Xử lý ghi nhớ đồng thời nhiều tab
+21.54 Thêm onChange khi tab thay đổi
+21.55 Tối ưu logic cho option onChange
+21.56 Tối ưu code thư viện Tabzy
+21.57 Áp dụng thư viện Tabzy
+21.58 Tạo hiệu ứng trượt cho activeLine
 
 20. Làm việc với DOM
 20.1 Lưu ý trước khi học DOM
-01:04
 20.2 Kiến thức nền tảng khi học DOM?
-00:16
 20.3 Tìm hiểu sơ bộ về DOM
-05:15
 20.4 JavaScript có thể làm gì với DOM?
-00:14
 20.5 Các bước trình duyệt tạo phần tử DOM?
-00:24
 20.6 Document và phân loại các node
-02:47
 20.7 Đối tượng document trong DOM là gì?
-00:17
 20.8 DOM có những loại node phổ biến nào?
-00:16
 20.9 Lưu ý khi lấy phần tử trong DOM
-02:58
 20.10 Lưu ý gì khi lấy phần tử trong DOM?
-00:17
 20.11 Cách lấy phần tử theo ID
-06:59
 20.12 Đâu là cách lấy phần tử qua ID?
-00:18
 20.13 Kiểm tra tồn tại của phần tử trong DOM?
-00:31
 20.14 Tránh sử dụng biến được tự động tạo?
-00:28
 20.15 Tạo hàm changeElementTextById
-09:50
 20.16 Lấy phần tử theo Tag/Class name
-05:57
 20.17 getElementById khác gì getElementsByTagName?
-00:26
 20.18 Dấu hiệu nhận biết phương thức trả về danh sách?
-00:23
 20.19 Thay đổi nội dung của thẻ h2 thứ 2?
-00:38
 20.20 Tạo hàm countElementsByTag
-04:17
 20.21 Tạo hàm highlightElementsByClass
-07:27
 20.22 Lấy phần tử theo CSS selectors
-05:26
 20.23 Phân biệt bộ chọn với CSS selector
-00:17
 20.24 Ưu điểm của bộ chọn với CSS selector
-00:23
 20.25 Lấy phần tử theo CSS selector
-01:07
 20.26 Thuộc tính innerText và innerHTML
-10:00
 20.27 Thay đổi nội dung HTML của phần tử?
-00:16
 20.28 Phân biệt innerHTML và innerText?
-00:24
 20.29 Tạo hàm renderList
-00:00
 20.30 Phân biệt outerHTML và innerHTML
-02:13
 20.31 outerHTML khác gì innerHTML?
-00:00
 20.32 Khác nhau giữa innerText và textContent
-07:09
 20.33 Khác biệt chính giữa textContent và innerText?
-00:00
 20.34 HTMLCollection, NodeList và Array
-06:46
 20.35 Quản lý HTML attributes của phần tử
-23:02
 20.36 Phân biệt attribute và property
-12:03
 20.37 Khác biệt giữa Attribute và Property?
-00:24
 20.38 Attribute value của input có thay đổi theo property?
-00:27
 20.39 Property value của input có thay đổi theo attribute?
-00:28
 20.40 Làm việc với class của phần tử
-13:18
 20.41 Làm việc với style của phần tử
-08:31
 20.42 Viết pseudo classes với CSS rules
-06:20
 20.43 Có thể truyền nhiều rule vào insertRule?
-00:44
 20.44 Tìm hiểu hàm getComputedStyle
-06:56
 20.45 Tạo mới phần tử và gắn vào DOM
-06:43
 20.46 Tấn công XSS và cách phòng tránh
-17:14
 20.47 Phòng tránh XSS với DOMPurify
-09:34
 20.48 Tạo Node mới và làm việc với chúng
-15:21
 20.49 Tìm hiểu về Fragment Node
-03:40
 20.50 Kiểm tra thông tin cơ bản của Node
-04:32
 20.51 Tìm kiếm và kiểm tra các Node
-10:26
 20.52 Truy cập cấu trúc DOM xung quanh Node
-09:36
 20.53 Các cách lấy kích thước của Element
-10:55
 20.54 Cách xác định vị trí của Element
-11:19
 20.55 Xử lý cuộn trên Element
-19:06
 20.56 Tìm hiểu về DOM events
-15:47
 20.57 Tìm hiểu về các đối tượng Event
-09:30
 20.58 Từ khóa this trong hàm xử lý event
-05:52
 20.59 DOM events thông qua HTML attributes
-05:57
 20.60 Hệ thống kế thừa DOM events
-07:13
 20.61 Sự kiện nổi bọt (Event bubbling)
-06:59
 20.62 Ứng dụng của event bubbling
-07:49
 20.63 Phân biệt e.target và e.currentTarget
-04:35
 20.64 Tìm hiểu về Event capture
-06:35
 20.65 Tìm hiểu stopImmediatePropagation()
-04:11
 20.66 Tìm hiểu preventDefault()
-15:55
 
 19. Thời gian và Ngày tháng
 19.1 Hàm Date, Timestamp và ISO 8601
