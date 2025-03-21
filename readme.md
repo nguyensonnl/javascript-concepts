@@ -5,3 +5,15 @@ modules datatable(crud, filer, search, pagination, ...)
 modules user interface  
 modules validation form  
 everything in js
+
++input:
+html
+css
+css bem
+css preprocessor: scss
+css framework: bootstrap
+css UI Component:
+
++output:
+ui component
+covert figma, psd to html, css
