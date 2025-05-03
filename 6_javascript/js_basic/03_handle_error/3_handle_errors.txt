@@ -1,7 +1,0 @@
-#throw
-
-#try...catch
-
-#try...catch...finaly
-
-#throw new Error("error")

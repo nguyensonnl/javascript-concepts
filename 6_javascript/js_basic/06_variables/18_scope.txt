@@ -1,5 +1,0 @@
-#global scope
-
-#function scope
-
-#block scope:  {...}
