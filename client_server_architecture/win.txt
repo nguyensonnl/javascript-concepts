@@ -1,0 +1,1 @@
+Clients and servers communicate using protocols like HTTP. The client sends an HTTP request, and the server sends back an HTTP response. 
