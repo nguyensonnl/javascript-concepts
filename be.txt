@@ -1,0 +1,17 @@
+# language
+php -> laravel
+c# ->.NET framwork
+java -> spring boot
+javascritp(node) ->express, nestjs
+
+# database
+# sql
+sql server
+mysql
+oracle
+postgresql
+#no sql
+mongodb
+apache cassandra
+redis
+elasticsearch
